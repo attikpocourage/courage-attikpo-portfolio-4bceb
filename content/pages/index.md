@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Hi
+title: Home
 colors: colors-a
 sections:
   - elementId: ''
