@@ -147,7 +147,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-3.jpg
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
